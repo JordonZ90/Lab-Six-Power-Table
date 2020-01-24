@@ -1,0 +1,11 @@
+C:\Users\zigar\source\repos\LabSixPowerTable\LabSixPowerTable\bin\Debug\netcoreapp3.0\LabSixPowerTable.exe
+C:\Users\zigar\source\repos\LabSixPowerTable\LabSixPowerTable\bin\Debug\netcoreapp3.0\LabSixPowerTable.deps.json
+C:\Users\zigar\source\repos\LabSixPowerTable\LabSixPowerTable\bin\Debug\netcoreapp3.0\LabSixPowerTable.runtimeconfig.json
+C:\Users\zigar\source\repos\LabSixPowerTable\LabSixPowerTable\bin\Debug\netcoreapp3.0\LabSixPowerTable.runtimeconfig.dev.json
+C:\Users\zigar\source\repos\LabSixPowerTable\LabSixPowerTable\bin\Debug\netcoreapp3.0\LabSixPowerTable.dll
+C:\Users\zigar\source\repos\LabSixPowerTable\LabSixPowerTable\bin\Debug\netcoreapp3.0\LabSixPowerTable.pdb
+C:\Users\zigar\source\repos\LabSixPowerTable\LabSixPowerTable\obj\Debug\netcoreapp3.0\LabSixPowerTable.csprojAssemblyReference.cache
+C:\Users\zigar\source\repos\LabSixPowerTable\LabSixPowerTable\obj\Debug\netcoreapp3.0\LabSixPowerTable.AssemblyInfoInputs.cache
+C:\Users\zigar\source\repos\LabSixPowerTable\LabSixPowerTable\obj\Debug\netcoreapp3.0\LabSixPowerTable.AssemblyInfo.cs
+C:\Users\zigar\source\repos\LabSixPowerTable\LabSixPowerTable\obj\Debug\netcoreapp3.0\LabSixPowerTable.dll
+C:\Users\zigar\source\repos\LabSixPowerTable\LabSixPowerTable\obj\Debug\netcoreapp3.0\LabSixPowerTable.pdb
